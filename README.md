@@ -1,7 +1,7 @@
 # gauge-taiko-sample-project
 * A sample web automation project created using Gauge + Taiko.
 
-##Framework Used
+## Framework Used
 * Gauge + Taiko : https://gauge.org/
 * Gauge version: 1.1.1
 * Taiko version: Version: 1.0.13 (Chromium: 85.0.4168.0) RELEASE
