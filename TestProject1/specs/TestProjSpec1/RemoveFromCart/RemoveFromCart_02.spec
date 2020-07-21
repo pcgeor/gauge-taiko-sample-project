@@ -8,6 +8,6 @@
 * Select "Sauce Labs Bolt T-Shirt"
 * Remove "Sauce Labs Bolt T-Shirt"
 * Remove "Sauce Labs Backpack"
-* Remove "Sauce Labs Backpack"
+* Remove "Sauce Labs Bike Light"
 * Checkout
 
