@@ -1,6 +1,4 @@
 # gauge-taiko-sample-project
-A sample web automation project created using Gauge + Taiko.
-Name: PC George
 * A sample web automation project created using Gauge + Taiko.
 
 ## Framework Used
